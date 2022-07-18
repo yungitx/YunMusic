@@ -1,6 +1,6 @@
 <br />
 <p align="center">
-  <a href="https://music.qier222.com" target="blank">
+  <a href="https://me.sakcat.com" target="blank">
     <img src="images/logo.png" alt="Logo" width="156" height="156">
   </a>
   <h2 align="center" style="font-weight: 600">YesPlayMusic</h2>
@@ -8,9 +8,8 @@
   <p align="center">
     高颜值的第三方网易云播放器
     <br />
-    <a href="https://music.qier222.com" target="blank"><strong>🌎 访问DEMO</strong></a>&nbsp;&nbsp;|&nbsp;&nbsp;
+    <a href="https://me.sakcat.com" target="blank"><strong>🌎 访问DEMO</strong></a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="#%EF%B8%8F-安装" target="blank"><strong>📦️ 下载安装包</strong></a>&nbsp;&nbsp;|&nbsp;&nbsp;
-    <a href="https://t.me/yesplaymusic" target="blank"><strong>💬 加入交流群</strong></a>
     <br />
     <br />
   </p>
@@ -55,7 +54,7 @@ Electron 版本由 [@hawtim](https://github.com/hawtim) 和 [@qier222](https://g
 
 除了下载安装包使用，你还可以将本项目部署到 Vercel 或你的服务器上。下面是部署到 Vercel 的方法。
 
-本项目的 Demo (https://music.qier222.com) 就是部署在 Vercel 上的网站。
+本项目的 Demo (https://me.sakcat.com) 就是部署在 Vercel 上的网站。
 
 [![Powered by Vercel](https://www.datocms-assets.com/31049/1618983297-powered-by-vercel.svg)](https://vercel.com/?utm_source=ohmusic&utm_campaign=oss)
 
